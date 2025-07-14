@@ -254,7 +254,12 @@
         {
           "project_name": "Bitcoin Lightning Wallet (BLW)",
           "project_level": "Non-Custodial Mobile Wallet",
-          "links": [],
+          "links": [
+            {
+            "type": "Website",
+              "url": "https://lightning-wallet.com/"
+            }
+          ],
           "tags": ["Non-Custodial", "Android", "Eclair-based"]
         },
         {
