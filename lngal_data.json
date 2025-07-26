@@ -458,7 +458,12 @@
         {
           "project_name": "1ML",
           "project_level": "Lightning Network Explorer",
-          "links": [],
+          "links": [
+            {
+              "type": "Website",
+              "url": "https://1ml.com/"
+            }
+          ],
           "tags": ["Comprehensive", "Explorer"]
         },
         {
