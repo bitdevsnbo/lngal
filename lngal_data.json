@@ -487,7 +487,12 @@
         {
           "project_name": "Mempool Lightning Explorer",
           "project_level": "Bitcoin and Lightning Explorer",
-          "links": [],
+          "links": [
+            {
+              "type": "Website",
+              "url": "https://mempool.space/lightning"
+            }
+          ],
           "tags": ["Explorer", "Combined View"]
         }
       ]
