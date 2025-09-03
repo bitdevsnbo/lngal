@@ -16,7 +16,7 @@ An interactive, community-maintained visualization of the Lightning Network ecos
 ## 🚀 Quick Start
 
 ### View the Gallery
-Visit the live site: [Lightning Network Gallery](https://okjodom.github.io/lngal)
+Visit the live site: [Lightning Network Gallery](https://bitdevsnbo.github.io/lngal)
 
 ### Add a Project
 1. Navigate to [`lngal_data.json`](lngal_data.json)
@@ -106,7 +106,7 @@ Changes to the main branch automatically:
 
 ### Setup
 ```bash
-git clone https://github.com/okjodom/lngal
+git clone https://github.com/bitdevsnbo/lngal
 cd lngal
 # Simply open index.html in your browser
 ```
@@ -180,10 +180,10 @@ This project is open source under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- Issues: [GitHub Issues](https://github.com/okjodom/lngal/issues)
-- Discussions: [GitHub Discussions](https://github.com/okjodom/lngal/discussions)
-- Email: [okjodom](mailto:okjodom@github.com)
+- Issues: [GitHub Issues](https://github.com/bitdevsnbo/lngal/issues)
+- Discussions: [GitHub Discussions](https://github.com/bitdevsnbo/lngal/discussions)
+- Discord: [bitdevsnbo](https://discord.gg/RQmYSGJeNZ)
 
 ---
 
-**Made with ⚡ by the Lightning Network community**
+**Made with ⚡ by the BitDevs Nairobi community**
