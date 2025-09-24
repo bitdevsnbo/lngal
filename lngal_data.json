@@ -658,9 +658,18 @@
         {
           "project_name": "L402 (formerly LSAT)",
           "project_level": "Protocol (HTTP 402 Payment Required)",
-          "links": [],
+          "links": [
+            {
+              "type": "API Docs ",
+              "url": "https://docs.lightning.engineering/the-lightning-network/l402"
+            },
+            {
+              "type": "GitHub",
+              "url": "https://github.com/lightninglabs/L402?s=08"
+            }
+          ],
           "tags": ["Protocol", "API Monetization", "Authentication"]
-        },
+        },  
         {
           "project_name": "DeFi Concepts (Yield Generation)",
           "project_level": "Emerging Concept",
