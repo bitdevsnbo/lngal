@@ -161,6 +161,21 @@
             }
           ],
           "tags": ["Management", "UI", "Lightning Labs"]
+        },
+         {
+          "project_name": "Breez SDK - Nodeless ",
+          "project_level": "Infrastructure / SDK layer",
+          "links": [
+            {
+              "type": "Website",
+              "url": "https://breez.technology/"
+            },
+            {
+              "type": "GitHub",
+              "url": "https://github.com/breez"
+            }
+          ],
+          "tags": ["developer-tools", "SDK", "Mobile"]
         }
       ]
     },
