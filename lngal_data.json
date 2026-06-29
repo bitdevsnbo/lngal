@@ -289,9 +289,14 @@
         {
           "project_name": "Best Wallet",
           "project_level": "Multi-platform Wallet",
-          "links": [],
+          "links": [
+            {
+              "type": "Website",
+              "url": "https://bestwallet.com/en/"
+            }
+          ],
           "tags": ["Multi-platform"]
-        },
+        },  
         {
           "project_name": "Bitsacco Wallet",
           "project_level": "Chama and personal savings within a SACCO built on bitcoin",
